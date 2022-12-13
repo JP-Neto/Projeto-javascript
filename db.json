@@ -1,0 +1,54 @@
+{
+  "alunos": [
+    {
+      "nome": "Maria lima",
+      "matricula": "2022.456.789",
+      "curso": "Redes",
+      "id": 8
+    },
+    {
+      "nome": "Fernando Filho",
+      "matricula": "2022.789.456",
+      "curso": "Sistemas para internet",
+      "id": 9
+    },
+    {
+      "nome": "Kleyton José Filho",
+      "matricula": "2022.142.545.548",
+      "curso": "Redes",
+      "id": 10
+    },
+    {
+      "nome": "João Kennedy",
+      "matricula": "2022.152.4658",
+      "curso": "Sistemas para internet",
+      "id": 11
+    }
+  ],
+  "disciplinas": [
+    {
+      "nomeDisciplina": "Analise e desenvolvimento de Sistemas",
+      "carga_horaria": "16h",
+      "professor": "Nelio Frazao",
+      "status": "obrigatoria",
+      "descricao": "Teste etsteasdasdasdasd",
+      "id": 4
+    },
+    {
+      "nomeDisciplina": "Administração e Finanças",
+      "carga_horaria": "105h",
+      "professor": "Nelio Frazao",
+      "status": "Opcional",
+      "descricao": "asdasdasda23123asdasdasda231",
+      "id": 5
+    },
+    {
+      "nomeDisciplina": "Analise e desenvolvimento de Sistemas",
+      "carga_horaria": "105h",
+      "professor": "Marcela Vera Mendes",
+      "status": "obrigatoria",
+      "descricao": "asdasdadasdasdasda",
+      "id": 6
+    }
+  ]
+}
